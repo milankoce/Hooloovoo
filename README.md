@@ -9,7 +9,7 @@
 - The design pattern in the framework is the Page Object Model design pattern.
 - Testing website is "http:hooloovoo.rs"
 
-Task: 
+Task: User aplies for job in Hooloovoo 
 
 Given User is navigated to Hooloovoo home page
 When User clicks on "Posao" button

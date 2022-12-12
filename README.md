@@ -7,7 +7,7 @@
 - The built automation tool is Maven. 
 - The assertion tool is JUnit. 
 - The design pattern in the framework is the Page Object Model design pattern.
-- Testing website is "http:hooloovoo.rs"
+- Testing website is "https://hooloovoo.rs/"
 
 Task: User aplies for job in Hooloovoo 
 
